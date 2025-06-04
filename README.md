@@ -40,23 +40,12 @@ Welcome to your personal Go learning journey! This repository is designed to hel
 
 ## 📋 Sample Tasks & Projects
 
-# > Code is on Diffrent Rep But I uploaded :>
+> Code is on Diffrent Rep But I uploaded :)
+- 📝 Go CLI Todo App
 
->  1. CLI User Management
-- Build user registration and login CLI app using JSON storage.
-##
->  2. Weather CLI App
-##
-- Fetch weather data from API and display with nice terminal UI.
-##
->  3. Markdown Downloader & HTML
+> A simple command-line todo list written in Go — beginner-friendly and file-based using JSON for storage.
 
-- Download .md from GitHub raw URLs, convert to HTML.
 ##
-> 4. GitHub Repo Info Fetcher
-
-- Fetch repo info and commits from GitHub API using CLI.
-## 
 
 ## 📊 Progress Bar Helper
 
