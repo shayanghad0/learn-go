@@ -1,0 +1,9 @@
+{
+  "shayan": {
+    "username": "shayan",
+    "password": "hashed_password_here",
+    "email": "shayan@mail.com",
+    "name": "Shayan",
+    "age": 23
+  }
+}
