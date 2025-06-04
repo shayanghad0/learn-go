@@ -1,0 +1,6 @@
+{
+  "name": "Shayan",
+  "age": 23,
+  "skills": ["Go", "Python", "JS"],
+  "active": true
+}
